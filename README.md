@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning:
 - Unreal Engine 5
 - 💞️ I’m looking to collaborate on ...
+- A first person shooter set in WWI
 - 📫 How to reach me ...
 - ryderfield@hotmail.com
 
